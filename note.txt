@@ -1,0 +1,2 @@
+- Interface là cơ chế định nghĩa kiểu dữ liệu cho đối tượng
+- Type : Không hỗ trợ kế thừa 
